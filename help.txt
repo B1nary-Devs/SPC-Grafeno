@@ -1,3 +1,27 @@
+# Projeto Consolidado
+
+Este repositório contém submódulos para os seguintes projetos:
+
+- **Frontend:** React
+- **Backend:** Flask
+- **IA:** Python
+
+## Configuração
+
+1. Clone o repositório e inicie os submódulos:
+
+    ```bash
+    git clone https://github.com/seu-usuario/novo-repositorio.git
+    cd novo-repositorio
+    git submodule update --init --recursive
+    ```
+
+2. Construa e inicie os serviços usando Docker Compose:
+
+    ```bash
+    docker-compose up --build
+    ```
+
 Rota front
 http://localhost:3000/
 
@@ -6,3 +30,4 @@ http://localhost:5000/
 
 Rota IA
 http://localhost:8000/
+
