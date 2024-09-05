@@ -1,0 +1,8 @@
+Rota front
+http://localhost:3000/
+
+Rota Back
+http://localhost:5000/
+
+Rota IA
+http://localhost:8000/

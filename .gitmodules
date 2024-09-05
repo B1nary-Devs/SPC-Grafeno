@@ -1,0 +1,9 @@
+[submodule "SPC-Front"]
+	path = SPC-Front
+	url = https://github.com/B1nary-Devs/SPC-Front.git
+[submodule "SPC-Back"]
+	path = SPC-Back
+	url = https://github.com/B1nary-Devs/SPC-Back.git
+[submodule "SPC-IA"]
+	path = SPC-IA
+	url = https://github.com/B1nary-Devs/SPC-IA.git
