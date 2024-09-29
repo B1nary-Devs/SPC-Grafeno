@@ -69,7 +69,9 @@ Additionally, we will develop a scoring system with an interactive dashboard tha
 
 <summary> See more details </summary>
 
-oi
+<br>
+
+![Group 1](https://github.com/user-attachments/assets/40a7f2c4-b9d0-481e-a6ba-10ec2def5a5b)
 
 </details>
 
