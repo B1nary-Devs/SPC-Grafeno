@@ -81,9 +81,9 @@ Additionally, we will develop a scoring system with an interactive dashboard tha
 
 <div align=center>
   
-### [1º Sprint - 09/09 á 29/09](https://github.com/B1nary-Devs/SPC-Grafeno/tree/main/1sprint)
-### [2º Sprint - 07/10 á 27/10](https://github.com/B1nary-Devs/SPC-Grafeno/tree/main/2sprint)
-### [3º Sprint - 04/11 á 24/11](https://github.com/B1nary-Devs/SPC-Grafeno/tree/main/3sprint)
+### [1º Sprint - 09/09 a 29/09](https://github.com/B1nary-Devs/SPC-Grafeno/tree/main/1sprint)
+### [2º Sprint - 07/10 a 27/10](https://github.com/B1nary-Devs/SPC-Grafeno/tree/main/2sprint)
+### [3º Sprint - 04/11 a 24/11](https://github.com/B1nary-Devs/SPC-Grafeno/tree/main/3sprint)
 
 </div>
 
