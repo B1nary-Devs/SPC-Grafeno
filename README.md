@@ -4,7 +4,7 @@
 
 <br>
 
-#### Binary Cred is an innovative scoring and dashboard system for financial assets. We utilize AI and machine learning to identify fraudulent duplicates, ensuring enhanced security and operational efficiency. Our platform provides valuable visual insights that empower informed decision-making, benefiting both financial institutions and their clients.
+#### Binary Credi is an innovative scoring and dashboard system for financial assets. We utilize AI and machine learning to identify fraudulent duplicates, ensuring enhanced security and operational efficiency. Our platform provides valuable visual insights that empower informed decision-making, benefiting both financial institutions and their clients.
 
 <br>
 
@@ -51,6 +51,7 @@ Additionally, we will develop a scoring system with an interactive dashboard tha
 | Product Owner |  Wallace Honorato | <a href="https://www.linkedin.com/in/wallace-honorato-b15a3b1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/WallaceHS20" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
 | Scrum Master| Marcelo Silva| <a href="https://www.linkedin.com/in/marcelo-silva7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/marcelosilva7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
 | Developer  |  Julio Cesar | <a href="https://www.linkedin.com/in/juliocesar2811/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/juliocesar1316" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
+| Developer  | Tiago Dias | <a href="https://www.linkedin.com/in/thiago-dias-19919616b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/ThiagoDisk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Developer |  Larissa Souza | <a href="https://www.linkedin.com/in/larissatsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/larissasouz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
 
 </div>
