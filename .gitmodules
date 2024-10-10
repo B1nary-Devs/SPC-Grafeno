@@ -7,3 +7,6 @@
 [submodule "SPC-IA"]
 	path = SPC-IA
 	url = https://github.com/B1nary-Devs/SPC-IA.git
+[submodule "SPC-IA2"]
+	path = SPC-IA2
+	url = https://github.com/B1nary-Devs/SPC-IA2
