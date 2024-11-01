@@ -15,7 +15,8 @@
 
 <br>
 
-in progress
+![Group 320 (1)](https://github.com/user-attachments/assets/9102cbbe-9e60-4b91-be54-939401d051fb)
+
 </div>
 
 </details>
@@ -36,7 +37,7 @@ in progress
 
 <br>
 
-in progress
+![Group 321](https://github.com/user-attachments/assets/78b26318-88be-4cee-abd5-530f8dd69869)
 
 </div>
 
@@ -58,8 +59,23 @@ in progress
 
 <br>
 
-### in progress
+### View Home Page
+![image](https://github.com/user-attachments/assets/d4bcfd9c-8f05-4989-a776-81bf3a400054)
 
+### View Grouping of Payment Centers
+![image](https://github.com/user-attachments/assets/c0320c1d-31bb-4317-b45b-130c3114029d)
+
+### View Anomaly Detection
+![image](https://github.com/user-attachments/assets/66b6b810-5707-4ff7-a99f-5fb19175b2ff)
+
+### View Anomaly Detection Details
+![image](https://github.com/user-attachments/assets/2ac552c0-bc4b-47eb-8ecb-3b138db0dae5)
+
+### View Monthly Reconciliation 
+![image](https://github.com/user-attachments/assets/c58f61df-b673-4200-bc72-788463646c57)
+
+### View Monthly Reconciliation Details
+![image](https://github.com/user-attachments/assets/a5d3f036-98d8-4797-84d8-acbeefe850d7)
 
 </div>
 
