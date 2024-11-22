@@ -87,6 +87,7 @@ Based on the proposed challenge, a solution has been developed that will consist
 <b> 8. </b> Payment Locations visualization by Administrator <br>
 <b> 9. </b> Out-of-pattern activity alerts by Administrator <br>
 <b> 10. </b> Monthly reconciliation report by Administrator <br>
+<b> 11. </b> Implementation of LGPD <br>
 
 </div>
 
@@ -106,7 +107,7 @@ Based on the proposed challenge, a solution has been developed that will consist
 
 <br>
 
-![backlog](https://github.com/user-attachments/assets/7aa661c1-c875-4064-a0c2-331d709da332)
+![backlog](https://github.com/user-attachments/assets/1639e721-dc5b-41d5-8e4e-a7ba27b18e55)
 
 
 </details>
