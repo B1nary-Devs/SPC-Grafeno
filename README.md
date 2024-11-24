@@ -76,6 +76,7 @@ Based on the proposed challenge, a solution has been developed that will consist
 <br>
 
 <div align=justify>
+<H3> Functional requirements </H3>
   
 <b> 1. </b> Differentiated access control <br>
 <b> 2. </b> CRUD for Assignors and Drawees <br>
@@ -89,6 +90,8 @@ Based on the proposed challenge, a solution has been developed that will consist
 <b> 10. </b> Monthly reconciliation report by Administrator <br>
 <b> 11. </b> Implementation of LGPD <br>
 
+<H3> Non-functional requirements </H3>
+<b> 1. </b> Performance <br>
 </div>
 
 </div>
